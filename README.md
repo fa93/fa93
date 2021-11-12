@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatema Khanam
 - 👀 I’m interested in Software Development and Teaching.
-- 🌱 I’m currently learning about Web Development using C#.
+- 🌱 I’m currently learning about Asp.Net Framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 fatemakhanam93@gmail.com
 
