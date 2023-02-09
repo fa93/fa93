@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatema Khanam
 - 👀 I’m interested in Software Development and Teaching.
-- 🌱 I’m currently working with ASP.NET Core MVC, MSSQL, Angular
+- 🌱 I’m currently working by using C#, ASP.NET Core, MSSQL, Angular
 - 📫 fatemakhanam93@gmail.com
 
 <!---
